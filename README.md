@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiXiangZi-001=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/XiangZi-001=anuraghazra)
 
 
 
